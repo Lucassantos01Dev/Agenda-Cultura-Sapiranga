@@ -149,6 +149,7 @@ h2::after {
 
 #contato ul li a {
     color: rgba(66, 152, 52, 1);
+    text-decoration: none;
 }
 
 #contato ul li a:hover {
