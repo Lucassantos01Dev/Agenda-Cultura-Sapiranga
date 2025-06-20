@@ -141,8 +141,6 @@ h2::after { /* Linha decorativa abaixo do H2 */
 
 #contato ul li a {
     color: rgba(66, 152, 52, 1); /* Links de contato com a cor secundária */
-    text-decoration: none;
-    transition: color 0.3s ease;
 }
 
 #contato ul li a:hover {
