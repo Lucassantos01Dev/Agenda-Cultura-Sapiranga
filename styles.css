@@ -145,6 +145,7 @@ h2::after {
     margin-bottom: 0.8rem;
     font-size: 1.1rem;
     color: #000001;
+     text-decoration: none;
 }
 
 #contato ul li a {
@@ -155,6 +156,7 @@ h2::after {
 
 #contato ul li a:hover {
     color: rgba(0, 44, 30, 1);
+     text-decoration: none;
 }
 
 footer {
