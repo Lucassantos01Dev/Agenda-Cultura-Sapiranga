@@ -129,7 +129,7 @@ h2::after { /* Linha decorativa abaixo do H2 */
     padding: 0;
     text-align: center;
 }
-.contato-texto { /* Altere de .p1 para .contato-texto */
+.contato-texto { 
   text-align: center;
 }
 
@@ -140,7 +140,7 @@ h2::after { /* Linha decorativa abaixo do H2 */
 }
 
 #contato ul li a {
-    color: black; /* Links de contato com a cor secundária */
+    color: rgba(66, 152, 52, 1); /* Links de contato com a cor secundária */
     text-decoration: none;
     transition: color 0.3s ease;
 }
