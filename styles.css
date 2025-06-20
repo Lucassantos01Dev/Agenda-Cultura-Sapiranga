@@ -129,14 +129,14 @@ h2::after { /* Linha decorativa abaixo do H2 */
     padding: 0;
     text-align: center;
 }
-p  {
+.p1  {
   text-align: center;
 }
 
 #contato ul li {
     margin-bottom: 0.8rem;
     font-size: 1.1rem;
-    color: var(--text-color);
+    color: black;
 }
 
 #contato ul li a {
@@ -147,7 +147,7 @@ p  {
 
 #contato ul li a:hover {
     text-decoration: underline;
-    color: var(--primary-color); /* Muda a cor ao passar o mouse */
+    color: rgba(0, 44, 30, 1); /* Muda a cor ao passar o mouse */
 }
 
 footer {
