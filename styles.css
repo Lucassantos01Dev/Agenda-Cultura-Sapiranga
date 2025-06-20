@@ -129,6 +129,9 @@ h2::after { /* Linha decorativa abaixo do H2 */
     padding: 0;
     text-align: center;
 }
+p  {
+  text-align: center;
+}
 
 #contato ul li {
     margin-bottom: 0.8rem;
