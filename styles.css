@@ -67,7 +67,7 @@ h2 {
 
 .event {
   background-color: white;
-  border-left: 6px solid #0077cc;
+  border-left: 6px solid rgba(0, 44, 30, 1);
   margin-bottom: 1.5rem;
   padding: 1.2rem;
   border-radius: 8px;
