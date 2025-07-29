@@ -104,7 +104,24 @@ h2::after {
     background-color: rgba(66, 152, 52, 1);
     border-radius: 2px;
 }
-
+h3 {
+    font-size: 2rem;
+    color: rgba(66, 152, 52, 1);
+    text-align: center;
+    position: relative;
+    padding-bottom: 0.5rem;
+}
+h3::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    width: 80px;
+    height: 4px;
+    background-color: rgba(66, 152, 52, 1);
+    border-radius: 2px;
+  }  
 .event {
     background-color: white;
     border-left: 6px solid rgba(0, 44, 30, 1);
@@ -133,7 +150,10 @@ h2::after {
 
 .contato-texto {
     text-align: center;
+    color: #000001;
+    padding: 1.2rem;
 }
+
 
 #contato ul {
     list-style: none;
